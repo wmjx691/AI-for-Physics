@@ -8,7 +8,7 @@
 │&emsp;&ensp;├── Final Project Intro.pdf (專題要求)  
 │&emsp;&ensp;├── Flycircuit_classification_Project_Introduction (專題簡介)   
 │&emsp;&ensp;├── Merge-final-notebook.ipynb (統整的code)  
-│&emsp;&ensp;├── \*.ipynb  
+│&emsp;&ensp;└── \*.ipynb  
 │  
 ├── homework   
 │&emsp;&ensp;├── 各週主題的lab homework  
