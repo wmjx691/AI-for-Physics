@@ -20,4 +20,17 @@
 │  
 └── lecture_note  
 &emsp;&ensp;&nbsp; └── 各週講義  
-
+&emsp;&emsp;&emsp;&emsp; 01-Introduction  
+&emsp;&emsp;&emsp;&emsp; 02-Classification  
+&emsp;&emsp;&emsp;&emsp; 03-Regression  
+&emsp;&emsp;&emsp;&emsp; 04-Clustering  
+&emsp;&emsp;&emsp;&emsp; 05-SVM and Trees  
+&emsp;&emsp;&emsp;&emsp; 06-Intro to NN  
+&emsp;&emsp;&emsp;&emsp; 07-Intro to NN 2  
+  
+&emsp;&emsp;&emsp;&emsp; 09-CNN  
+&emsp;&emsp;&emsp;&emsp; 10-More CNN  
+&emsp;&emsp;&emsp;&emsp; 11-RNN  
+&emsp;&emsp;&emsp;&emsp; 12-Generative Models  
+&emsp;&emsp;&emsp;&emsp; 13-Generative Models 2  
+&emsp;&emsp;&emsp;&emsp; 14-FinalRemarks
