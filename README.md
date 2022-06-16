@@ -1,6 +1,7 @@
 # AI-for-Physics
 
-### **Course**: Hands-on AI for Physics 物理與人工智慧(AI)實作導論
+### **Course**: Hands-on AI for Physics 物理與人工智慧(AI)實作導論 (11020PHYS591000)
+### **Teacher**: Hsu,Pai-hsien Jennifer 徐百嫻
 ### **Time**: 2022/02~2022/06 (2022 Spring semester)
 
 .  
